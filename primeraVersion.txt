@@ -1,3 +1,6 @@
 Hola mundo
 
 Preparación del documento.
+
+<img src="https:lapatria.com/imagen2.jpg">
+
