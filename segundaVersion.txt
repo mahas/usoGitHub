@@ -1,0 +1,7 @@
+Nuevas implementaciones de la applicación.
+
+1. CREAR USUARIO
+    Los usuarios pueden loguearse
+
+2.  ELIMINAR USUARIOS
+    El administrador puede eliminar usuarios.
