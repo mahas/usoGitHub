@@ -4,3 +4,7 @@ Preparación del documento.
 
 <img src="https:lapatria.com/imagen3.jpg">
 
+<img src="https:lapatria.com/imagen13.jpg">
+
+
+
