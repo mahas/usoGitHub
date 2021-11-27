@@ -1,0 +1,7 @@
+Cosas a implementar:
+
+1.   CREACIÓN DEL FOOTER
+    La página debe llebar un footer con los enlaces más importantes y el copyright
+
+2. CREACIÓN DE LA PÁGINA "FOMULARIO"
+    Creación de un formulario de contacto.
