@@ -5,3 +5,6 @@ Nuevas implementaciones de la applicación.
 
 2.  ELIMINAR USUARIOS
     El administrador puede eliminar usuarios.
+
+
+    Estoy agregando los botones que hacían falta en el menú.
